@@ -1,0 +1,9 @@
+variable "region" {}
+variable "vpc_cidr" {}
+variable "project_name" {}
+variable "pub_sub_az1_cidr" {}
+variable "pub_sub_az2_cidr" {}
+variable "pvt_app_sub_az1_cidr" {}
+variable "pvt_app_sub_az2_cidr" {}
+variable "pvt_dt_sub_az1_cidr" {}
+variable "pvt_dt_sub_az2_cidr" {}
