@@ -1,6 +1,6 @@
 region                  =   "ap-south-1"
-vpc_cidr                =   "jupiter"
-project_name            =   "10.0.0.0/16"
+vpc_cidr                =   "10.0.0.0/16"
+project_name            =   "jupiter"
 pub_sub_az1_cidr        =   "10.0.0.0/24"
 pub_sub_az2_cidr        =   "10.0.1.0/24"
 pvt_app_sub_az1_cidr    =   "10.0.2.0/24"
